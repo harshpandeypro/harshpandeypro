@@ -1,8 +1,8 @@
 - 👋 Hi, I’m HARSH PANDEY
 - 👀 I’m interested in Web Development, App Development, Video Editing & Graphic Designing
-- 🌱 I’m currently working in React and learning React Native
+- 🌱 I’m currently working in Full Stack Development - React, Next, React Native, Mongo, SQL, Express, Node
 - 💞️ I’m looking to collaborate on any relevant projects related to development
-- 📫 How to reach me- through linkedIn 
+- 📫 How to reach me- through linkedIn & instagram 
 
 <!---
 harshpandeypro/harshpandeypro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
